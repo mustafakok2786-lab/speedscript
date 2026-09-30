@@ -1,12 +1,457 @@
---[[
- .____                  ________ ___.    _____                           __                
- |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
- |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
- |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
- |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
-         \/          \/         \/    \/                \/     \/     \/                   
-          \_Welcome to LuaObfuscator.com   (Alpha 0.10.9) ~  Much Love, Ferib 
+-- HERE IS THE DISCORD LINK:https://discord.gg/t7Cyms8HZ
+local player = game.Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
 
-]]--
+if playerGui:FindFirstChild("LoadedGui") then playerGui.LoadedGui:Destroy() end
+if playerGui:FindFirstChild("ScriptSatisMenu") then playerGui.ScriptSatisMenu:Destroy() end
 
-local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or bit ;local v4=v3.bxor;local v5=table.concat;local v6=table.insert;local function v7(v100,v101) local v102={};for v292=1, #v100 do v6(v102,v0(v4(v1(v2(v100,v292,v292 + 1 )),v1(v2(v101,1 + (v292% #v101) ,1 + (v292% #v101) + 1 )))%256 ));end return v5(v102);end local v8=3085 + 13079 + (((154 + 3710 + 21835 + 342266) -(13756 + 260640)) -(68185 -(319 + 266))) + (190952 -(169390 -58752)) ;v8=v8 + ((92 + 21) -((92 -66) + (228 -161))) + ((2237 -(697 + 321)) -((323 -204) + 997)) ;local v9=2549656 -1346200 ;local v10=2836706 -1606235 ;local v11=3123086 + 4900395 ;if (v10>v9) then print(v7("\197\209\206\32","\126\177\163\187\69\134\219\167"));end if (((1 -0) + v11)>v10) then print(v7("\44\207\44\208\239\32\204\62\192\188\55\197\47\133\255\44\195\46\204\232\42\194\36\214\189","\156\67\173\74\165"));end print(v7("\23\187\64\21\183\47\72\51\247\114\37\168\52\79\58\176\90\43\252\49\79\56\187\9\21\179\43\86\56\178\93\19\176\63\6\60\190\77\19\252\50\78\61\164\9\5\168\52\79\58\176\8","\38\84\215\41\118\220\70"));do local v103=0;local v104;while true do if (v103==1) then for v304,v305 in pairs(v104) do if v305 then print(v7("\96\4\43\31\251\16\16\45\7\240\84\76\98","\158\48\118\66\114")   .. v304 );end end break;end if (0==v103) then function sieve_of_eratosthenes(v306) local v307=0 -0 ;local v308;while true do local v311=0;while true do if (v311==0) then if (v307==(1227 -(322 + 905))) then local v331=0;while true do if (v331==(611 -(602 + 9))) then v308={};for v337=1190 -(449 + 740) ,v306 do v308[v337]=(873 -(826 + 46))~=v337 ;end v331=948 -(245 + 702) ;end if (v331==1) then v307=3 -2 ;break;end end end if (v307==(1 + 0)) then for v332=1900 -(260 + 1638) ,math.floor(math.sqrt(v306)) do if v308[v332] then for v339=v332 * v332 ,v306,v332 do v308[v339]=false;end end end return v308;end break;end end end end v104=sieve_of_eratosthenes(860 -(382 + 58) );v103=3 -2 ;end end end print(v7("\131\43\7\118\103\170\187\164\38\22\35\96\166\250\191\33\80\52\118\182\239\244","\155\203\68\112\86\19\197"));local v12=game.Players.LocalPlayer;local v13=v12:WaitForChild(v7("\118\209\55\229\69\106\194\237\79","\152\38\189\86\156\32\24\133"));if v13:FindFirstChild(v7("\208\88\166\66\249\83\128\83\245","\38\156\55\199")) then v13.LoadedGui:Destroy();end if v13:FindFirstChild(v7("\155\126\110\33\3\96\201\66\188\116\111\5\22\122\239","\35\200\29\28\72\115\20\154")) then v13.ScriptSatisMenu:Destroy();end local v14=Instance.new(v7("\42\188\195\218\136\34\19\12\182","\84\121\223\177\191\237\76"));v14.Name=v7("\151\89\200\164\63\84\23\212\178","\161\219\54\169\192\90\48\80");v14.Parent=v13;local v17=Instance.new(v7("\125\71\24\49\101\67\2\32\69","\69\41\34\96"));v17.Name=v7("\144\204\214\14\7\47\136\198\207\30","\75\220\163\183\106\98");v17.Parent=v14;v17.BackgroundColor3=Color3.fromRGB(9 + 1 ,20 -10 ,59 -39 );v17.BackgroundTransparency=0.25;v17.AnchorPoint=Vector2.new(1205.5 -(902 + 303) ,0 -0 );v17.Position=UDim2.new(0.5 -0 ,0 + 0 ,1690.1 -(1121 + 569) ,214 -(22 + 192) );v17.AutomaticSize=Enum.AutomaticSize.XY;v17.Text="âš¡ HSYN64ğŸ‡¹ğŸ‡· ON TOP! âš¡";v17.TextColor3=Color3.fromRGB(0,923 -(483 + 200) ,1718 -(1404 + 59) );v17.Font=Enum.Font.GothamBold;v17.TextSize=65 -41 ;local v31=Instance.new(v7("\55\147\168\56\203\12\191\153","\185\98\218\235\87"));v31.CornerRadius=UDim.new(0,10 -2 );v31.Parent=v17;local v34=Instance.new(v7("\254\21\20\242\204\165\192\57","\202\171\92\71\134\190"));v34.Parent=v17;v34.Color=Color3.fromRGB(765 -(468 + 297) ,817 -(334 + 228) ,200);v34.Thickness=6 -4 ;v34.Transparency=0.1 -0 ;local v39=Instance.new(v7("\28\232\28\137\45\197\37\134\46","\232\73\161\76"));v39.PaddingLeft=UDim.new(0 -0 ,6 + 14 );v39.PaddingRight=UDim.new(236 -(141 + 95) ,20 + 0 );v39.PaddingTop=UDim.new(0,30 -18 );v39.PaddingBottom=UDim.new(0 -0 ,3 + 9 );v39.Parent=v17;task.wait(13 -8 );v14:Destroy();local v45=v7("\143\235","\126\219\185\34\61");local v46={[v7("\56\252","\135\108\174\62\18\30\23\147")]={[v7("\157\236\51\255\17\186\63\194","\167\214\137\74\171\120\206\83")]="ğŸ”‘ Key Sistemi",[v7("\160\245\43\109\244\166\136\245\58\82\244\163\142\226","\199\235\144\82\61\152")]=v7("\44\19\160\107\0\31\171\101\73\88","\75\103\118\217"),[v7("\228\92\117\23\178\53\194\77","\126\167\52\16\116\217")]=v7("\227\1\14\180\134\54\208\136\11\20","\156\168\78\64\224\212\121"),[v7("\32\235\177\229\2\247","\174\103\142\197")]=v7("\117\39\79\33\101\121\253\66\104\116\61\60\30\212\95\38\84","\152\54\72\63\88\69\62"),[v7("\253\202\248\93\216\205\234\119\209\221","\60\180\164\142")]="âŒ GeÃ§ersiz Key!",[v7("\110\95\9\32\35\198\23\65","\114\56\62\101\73\71\141")]="âœ… Key DoÄŸru!",[v7("\149\236\213\209\140\224\207\200\189","\164\216\137\187")]="  ğŸ”¥ HSYN64ğŸ‡¹ğŸ‡· MENU",[v7("\225\246\52\183\162\210\10\208\227\61","\107\178\134\81\210\198\158")]="HÄ±z (WalkSpeed):",[v7("\11\30\135\195\174\8\2\131\197\175\48\1\142\194\175\42","\202\88\110\226\166")]="Ã–rn: 16, 50...",[v7("\233\26\143\231\230\194\13\135\251","\170\163\111\226\151")]="ZÄ±plama (JumpPower):",[v7("\59\37\191\40\126\59\40\18\53\186\55\66\51\44\3","\73\113\80\210\88\46\87")]="Ã–rn: 50, 100...",[v7("\160\60\221\30\254\163\56\195","\135\225\76\173\114")]=v7("\47\212\159\133\128\156","\199\122\141\216\208\204\221"),[v7("\140\205\0\252\113\243\169\243\31\228\113\240","\150\205\189\112\144\24")]="âœ… HÄ±z ve ZÄ±plama baÅŸarÄ±yla uygulandÄ±!"},[v7("\0\170","\112\69\228\223\44\100\232\113")]={[v7("\255\26\30\231\191\104\138\209","\230\180\127\103\179\214\28")]="ğŸ”‘ Key System",[v7("\167\0\70\118\232\64\227\137\13\80\74\224\68\242","\128\236\101\63\38\132\33")]=v7("\137\167\5\65\164\171\196\169\176\95\10\248","\175\204\201\113\36\214\139"),[v7("\100\196\48\223\15\108\201\44","\100\39\172\85\188")]=v7("\155\93\139\169\21\148","\83\205\24\217\224"),[v7("\193\192\217\22\227\220","\93\134\165\173")]=v7("\157\253\209\219\122\233\183\106\254\217\196\219\122\226\187\112\181","\30\222\146\161\162\90\174\210"),[v7("\204\64\102\11\233\71\116\33\224\87","\106\133\46\16")]="âŒ Invalid Key!",[v7("\110\33\127\245\94\107\93\57","\32\56\64\19\156\58")]="âœ… Valid Key!",[v7("\119\205\235\67\110\251\148\86\205","\224\58\168\133\54\58\146")]="  ğŸ”¥ HSYN64ğŸ‡¹ğŸ‡· MENU",[v7("\106\70\78\248\113\170\134\9\92\90","\107\57\54\43\157\21\230\231")]=v7("\232\155\20\240\189\156\135\236\138\29\254\138\204\202\222\143\88\175","\175\187\235\113\149\217\188"),[v7("\15\191\132\73\231\73\116\61\172\132\68\236\117\124\57\189","\24\92\207\225\44\131\25")]=v7("\110\203\226\12\74\43\7\147\237\28\85\51\5","\29\43\179\216\44\123"),[v7("\151\204\45\92\145\216\34\73\177","\44\221\185\64")]=v7("\43\242\69\79\51\73\205\93\82\99\49\232\95\90\97\72\189","\19\97\135\40\63"),[v7("\132\73\62\43\31\61\175\95\54\51\32\61\170\89\33","\81\206\60\83\91\79")]=v7("\107\179\138\50\122\147\1\228\31\251\128\60\97\141","\196\46\203\176\18\79\163\45"),[v7("\153\50\110\18\61\217\251\182","\143\216\66\30\126\68\155")]=v7("\139\248\61\231\252","\129\202\168\109\171\165\195\183"),[v7("\3\72\39\212\215\17\226\12\87\35\209\216","\134\66\56\87\184\190\116")]="âœ… Speed and Jump applied successfully!"}};local v47=Instance.new(v7("\15\50\27\190\28\229\6\32\53","\85\92\81\105\219\121\139\65"));v47.Name=v7("\206\176\66\76\108\203\206\178\68\76\111\242\248\189\69","\191\157\211\48\37\28");v47.ResetOnSpawn=false;v47.Parent=v13;local v51,v52;local v53=Instance.new(v7("\249\13\245\17\63","\90\191\127\148\124"));v53.Parent=v47;v53.BackgroundColor3=Color3.fromRGB(18 + 7 ,25,19 + 16 );v53.Position=UDim2.new(0.5 -0 , -(74 + 51),163.4 -(92 + 71) , -(45 + 45));v53.Size=UDim2.new(0 -0 ,1015 -(574 + 191) ,0 + 0 ,375 -225 );v53.Active=true;v53.Draggable=true;local v60=Instance.new(v7("\77\174\13\24\106\137\43\5","\119\24\231\78"));v60.CornerRadius=UDim.new(0 + 0 ,859 -(254 + 595) );v60.Parent=v53;local v63=Instance.new(v7("\182\40\189\94\240\65\19\135\33","\113\226\77\197\42\188\32"));v63.Parent=v53;v63.BackgroundColor3=Color3.fromRGB(166 -(55 + 71) ,52 -12 ,55);v63.Size=UDim2.new(1791 -(573 + 1217) ,0,0 -0 ,4 + 36 );v63.Font=Enum.Font.GothamBold;v63.Text="  ğŸŒ Dil SeÃ§imi / Language";v63.TextColor3=Color3.fromRGB(0 -0 ,1179 -(714 + 225) ,255);v63.TextSize=14;v63.TextXAlignment=Enum.TextXAlignment.Left;local v73=Instance.new(v7("\15\63\215\186\40\24\241\167","\213\90\118\148"));v73.CornerRadius=UDim.new(0,10);v73.Parent=v63;local v76=Instance.new(v7("\111\43\172\66\111\78\58\160\89\67","\45\59\78\212\54"));v76.Parent=v53;v76.BackgroundColor3=Color3.fromRGB(0 -0 ,160,90);v76.Position=UDim2.new(0,15,0 -0 ,6 + 49 );v76.Size=UDim2.new(1, -30,0 -0 ,841 -(118 + 688) );v76.Font=Enum.Font.GothamBold;v76.Text="TÃ¼rkÃ§e (TR)";v76.TextColor3=Color3.fromRGB(303 -(25 + 23) ,50 + 205 ,255);v76.TextSize=1900 -(927 + 959) ;local v85=Instance.new(v7("\37\127\160\132\148\32\168\226","\144\112\54\227\235\230\78\205"));v85.CornerRadius=UDim.new(0 -0 ,738 -(16 + 716) );v85.Parent=v76;local v88=Instance.new(v7("\135\45\23\232\242\78\167\60\0\242","\59\211\72\111\156\176"));v88.Parent=v53;v88.BackgroundColor3=Color3.fromRGB(96 -46 ,100,200);v88.Position=UDim2.new(97 -(11 + 86) ,36 -21 ,285 -(175 + 110) ,252 -152 );v88.Size=UDim2.new(4 -3 , -(1826 -(503 + 1293)),0 -0 ,26 + 9 );v88.Font=Enum.Font.GothamBold;v88.Text=v7("\107\137\228\33\71\148\235\109\6\162\205\100","\77\46\231\131");v88.TextColor3=Color3.fromRGB(1316 -(810 + 251) ,255,177 + 78 );v88.TextSize=5 + 9 ;local v97=Instance.new(v7("\143\125\149\79\168\90\179\82","\32\218\52\214"));v97.CornerRadius=UDim.new(0 + 0 ,6);v97.Parent=v88;v76.MouseButton1Click:Connect(function() local v105=0;while true do if (v105==1) then v51();break;end if (v105==0) then v45=v7("\122\37","\58\46\119\81\200\145\208\37");v53:Destroy();v105=534 -(43 + 490) ;end end end);v88.MouseButton1Click:Connect(function() local v106=733 -(711 + 22) ;while true do if (v106==(0 -0)) then v45=v7("\14\162","\86\75\236\80\204\201\221");v53:Destroy();v106=1;end if (v106==(860 -(240 + 619))) then v51();break;end end end);function v51() local v107=v46[v45];local v108=Instance.new(v7("\84\83\118\136\251","\235\18\33\23\229\158"));v108.Parent=v47;v108.BackgroundColor3=Color3.fromRGB(7 + 18 ,25,55 -20 );v108.Position=UDim2.new(0.5 + 0 , -(1869 -(1344 + 400)),405.4 -(255 + 150) , -(71 + 19));v108.Size=UDim2.new(0 + 0 ,250,0,769 -589 );v108.Active=true;v108.Draggable=true;local v115=Instance.new(v7("\101\147\226\180\66\180\196\169","\219\48\218\161"));v115.CornerRadius=UDim.new(0 -0 ,1749 -(404 + 1335) );v115.Parent=v108;local v118=Instance.new(v7("\208\116\100\93\247\78\226\225\125","\128\132\17\28\41\187\47"));v118.Parent=v108;v118.BackgroundColor3=Color3.fromRGB(40,40,461 -(183 + 223) );v118.Size=UDim2.new(1,0 -0 ,0 + 0 ,15 + 25 );v118.Font=Enum.Font.GothamBold;v118.Text=v7("\65\114","\61\97\82\102\90")   .. v107.KeyTitle ;v118.TextColor3=Color3.fromRGB(337 -(10 + 327) ,168 + 72 ,255);v118.TextSize=353 -(118 + 220) ;v118.TextXAlignment=Enum.TextXAlignment.Left;local v129=Instance.new(v7("\153\7\136\68\213\89\27\27","\105\204\78\203\43\167\55\126"));v129.CornerRadius=UDim.new(0 + 0 ,10);v129.Parent=v118;local v132=Instance.new(v7("\145\175\59\10\49\11\223","\49\197\202\67\126\115\100\167"));v132.Parent=v108;v132.BackgroundColor3=Color3.fromRGB(489 -(108 + 341) ,40,23 + 27 );v132.Position=UDim2.new(0 -0 ,1508 -(711 + 782) ,0,105 -50 );v132.Size=UDim2.new(1, -(499 -(270 + 199)),0,11 + 21 );v132.Font=Enum.Font.Gotham;v132.PlaceholderText=v107.KeyPlaceholder;v132.Text="";v132.TextColor3=Color3.fromRGB(2074 -(580 + 1239) ,758 -503 ,244 + 11 );v132.TextSize=14;local v144=Instance.new(v7("\2\114\252\38\146\88\91\37","\62\87\59\191\73\224\54"));v144.CornerRadius=UDim.new(0,6);v144.Parent=v132;local v147=Instance.new(v7("\211\7\226\221\197\23\238\221\232\12","\169\135\98\154"));v147.Parent=v108;v147.BackgroundColor3=Color3.fromRGB(0 + 0 ,88 + 112 ,287 -177 );v147.Position=UDim2.new(0 + 0 ,15,1167 -(645 + 522) ,95);v147.Size=UDim2.new(1, -(1820 -(1010 + 780)),0,32 + 0 );v147.Font=Enum.Font.GothamBold;v147.Text=v107.CheckKey;v147.TextColor3=Color3.fromRGB(1214 -959 ,747 -492 ,2091 -(1045 + 791) );v147.TextSize=34 -20 ;local v157=Instance.new(v7("\254\94\7\91\239\61\205\217","\168\171\23\68\52\157\83"));v157.CornerRadius=UDim.new(0 -0 ,6);v157.Parent=v147;local v160=Instance.new(v7("\192\116\237\185\7\56\147\224\126\251","\231\148\17\149\205\69\77"));v160.Parent=v108;v160.BackgroundColor3=Color3.fromRGB(565 -(351 + 154) ,100,1774 -(1281 + 293) );v160.Position=UDim2.new(266 -(28 + 238) ,15,0,301 -166 );v160.Size=UDim2.new(1, -(1589 -(1381 + 178)),0 + 0 ,25 + 5 );v160.Font=Enum.Font.GothamBold;v160.Text=v107.GetKey;v160.TextColor3=Color3.fromRGB(109 + 146 ,879 -624 ,255);v160.TextSize=13;local v170=Instance.new(v7("\181\142\228\244\69\241\133\181","\159\224\199\167\155\55"));v170.CornerRadius=UDim.new(0,4 + 2 );v170.Parent=v160;local v173={[v7("\246\227\51\203\246\241\61\193\246\234\53\223\164\162","\178\151\147\92")]=true,[v7("\138\232\79\57\19\92\117\223\172","\26\236\157\44\82\114\44")]=true};v147.MouseButton1Click:Connect(function() local v293=string.match(v132.Text,v7("\20\107\198\17\98\96\152\18\111\61\159\31","\59\74\78\181"));if v173[v293] then game.StarterGui:SetCore(v7("\22\212\84\94\157\42\197\83\92\186\38\208\78\83\188\43","\211\69\177\58\58"),{[v7("\131\236\109\249\236","\171\215\133\25\149\137")]=v7("\201\251\11\212\185\100","\34\129\168\82\154\143\80\156"),[v7("\177\183\43\31","\233\229\210\83\107\40\46")]=v107.ValidKey,[v7("\229\87\32\215\17\200\77\60","\101\161\34\82\182")]=472 -(381 + 89) });v108:Destroy();v52();else game.StarterGui:SetCore(v7("\219\8\87\250\245\237\150\39\238\4\90\255\207\235\141\32","\78\136\109\57\158\187\130\226"),{[v7("\10\54\237\253\59","\145\94\95\153")]=v7("\213\254\45\251\24\227","\215\157\173\116\181\46"),[v7("\1\177\147\230","\186\85\212\235\146")]=v107.InvalidKey,[v7("\230\148\4\255\45\231\87\204","\56\162\225\118\158\89\142")]=2});end end);v160.MouseButton1Click:Connect(function() local v294=0 + 0 ;while true do if (v294==(0 + 0)) then pcall(function() setclipboard(v7("\84\17\212\191\49\130\19\74\196\166\49\219\83\23\196\225\37\223\19\17\151\140\59\213\79\93\232\149","\184\60\101\160\207\66"));end);game.StarterGui:SetCore(v7("\2\135\114\184\31\141\104\181\55\139\127\189\37\139\115\178","\220\81\226\28"),{[v7("\39\220\150\247\239","\167\115\181\226\155\138")]=v7("\202\17\222\114\45\37","\166\130\66\135\60\27\17"),[v7("\112\79\214\97","\80\36\42\174\21")]="Link kopyalandÄ±! / Link copied!",[v7("\106\5\37\123\90\25\56\116","\26\46\112\87")]=2 -0 });break;end end end);end function v52() local v174=v46[v45];local v175=true;local v176=nil;local v177=nil;task.spawn(function() while v175 do local v302=0;local v303;while true do if (v302==(1157 -(1074 + 82))) then if (v303 and v175) then local v315=0 -0 ;local v316;while true do if (v315==(1784 -(214 + 1570))) then v316=v303:FindFirstChild(v7("\145\54\166\117\177\176\76\176","\212\217\67\203\20\223\223\37"));if v316 then local v335=1455 -(990 + 465) ;local v336;while true do if (v335==(0 + 0)) then v336=0 + 0 ;while true do if (v336==0) then if v176 then v316.WalkSpeed=v176;end if v177 then local v344=0 + 0 ;while true do if (v344==0) then v316.UseJumpPower=true;v316.JumpPower=v177;break;end end end break;end end break;end end end break;end end end break;end if (v302==(0 -0)) then task.wait(1726.1 -(1668 + 58) );v303=v12.Character;v302=627 -(512 + 114) ;end end end end);local v178=Instance.new(v7("\156\159\169\223\191","\178\218\237\200"));v178.Parent=v47;v178.BackgroundColor3=Color3.fromRGB(65 -40 ,51 -26 ,121 -86 );v178.Position=UDim2.new(0.5, -125,0.4 + 0 , -(21 + 89));v178.Size=UDim2.new(0 + 0 ,843 -593 ,1994 -(109 + 1885) ,1684 -(1269 + 200) );v178.Active=true;v178.Draggable=true;local v185=Instance.new(v7("\131\156\197\223\164\187\227\194","\176\214\213\134"));v185.CornerRadius=UDim.new(0 -0 ,10);v185.Parent=v178;local v188=Instance.new(v7("\192\168\174\192\132\87\91\241\161","\57\148\205\214\180\200\54"));v188.Parent=v178;v188.BackgroundColor3=Color3.fromRGB(855 -(98 + 717) ,866 -(802 + 24) ,55);v188.Size=UDim2.new(1 -0 ,0 -0 ,0 + 0 ,31 + 9 );v188.Font=Enum.Font.GothamBold;v188.Text=v174.MenuTitle;v188.TextColor3=Color3.fromRGB(0 + 0 ,240,56 + 199 );v188.TextSize=15;v188.TextXAlignment=Enum.TextXAlignment.Left;local v200=Instance.new(v7("\39\212\22\59\100\28\248\39","\22\114\157\85\84"));v200.CornerRadius=UDim.new(0,27 -17 );v200.Parent=v188;local v203=Instance.new(v7("\240\206\11\208\127\227\188\208\196\29","\200\164\171\115\164\61\150"));v203.Parent=v188;v203.BackgroundColor3=Color3.fromRGB(600 -420 ,18 + 32 ,21 + 29 );v203.Position=UDim2.new(1, -(29 + 6),0 + 0 ,3 + 2 );v203.Size=UDim2.new(1433 -(797 + 636) ,145 -115 ,1619 -(1427 + 192) ,11 + 19 );v203.Font=Enum.Font.GothamBold;v203.Text="X";v203.TextColor3=Color3.fromRGB(255,592 -337 ,230 + 25 );v203.TextSize=8 + 8 ;local v212=Instance.new(v7("\139\221\32\74\145\176\241\17","\227\222\148\99\37"));v212.CornerRadius=UDim.new(326 -(192 + 134) ,1282 -(316 + 960) );v212.Parent=v203;local v215=Instance.new(v7("\7\87\74\226\219\38\70\70\249\247","\153\83\50\50\150"));v215.Parent=v188;v215.BackgroundColor3=Color3.fromRGB(34 + 26 ,47 + 13 ,80);v215.Position=UDim2.new(1, -70,0 + 0 ,18 -13 );v215.Size=UDim2.new(551 -(83 + 468) ,1836 -(1202 + 604) ,0 -0 ,49 -19 );v215.Font=Enum.Font.GothamBold;v215.Text="-";v215.TextColor3=Color3.fromRGB(706 -451 ,255,580 -(45 + 280) );v215.TextSize=18;local v224=Instance.new(v7("\104\95\80\19\97\165\72\79","\45\61\22\19\124\19\203"));v224.CornerRadius=UDim.new(0 + 0 ,6 + 0 );v224.Parent=v215;local v227=Instance.new(v7("\245\23\21\225\46\113\187\196\30","\217\161\114\109\149\98\16"));v227.Parent=v178;v227.BackgroundTransparency=1 + 0 ;v227.Position=UDim2.new(0 + 0 ,3 + 12 ,0 -0 ,1959 -(340 + 1571) );v227.Size=UDim2.new(1, -(12 + 18),1772 -(1733 + 39) ,20);v227.Font=Enum.Font.GothamBold;v227.Text=v174.SpeedLabel;v227.TextColor3=Color3.fromRGB(549 -349 ,1234 -(125 + 909) ,2168 -(1096 + 852) );v227.TextSize=6 + 6 ;v227.TextXAlignment=Enum.TextXAlignment.Left;local v238=Instance.new(v7("\38\37\32\104\158\123\10","\20\114\64\88\28\220"));v238.Parent=v178;v238.BackgroundColor3=Color3.fromRGB(57 -17 ,39 + 1 ,562 -(409 + 103) );v238.Position=UDim2.new(0,251 -(46 + 190) ,0,165 -(51 + 44) );v238.Size=UDim2.new(1 + 0 , -(1347 -(1114 + 203)),0,26);v238.Font=Enum.Font.Gotham;v238.PlaceholderText=v174.SpeedPlaceholder;v238.Text="";v238.TextColor3=Color3.fromRGB(981 -(228 + 498) ,56 + 199 ,255);v238.TextSize=8 + 6 ;local v250=Instance.new(v7("\4\40\241\187\234\222\184\35","\221\81\97\178\212\152\176"));v250.CornerRadius=UDim.new(663 -(174 + 489) ,15 -9 );v250.Parent=v238;local v253=Instance.new(v7("\249\226\5\239\54\204\229\24\247","\122\173\135\125\155"));v253.Parent=v178;v253.BackgroundTransparency=1;v253.Position=UDim2.new(1905 -(830 + 1075) ,15,0,100);v253.Size=UDim2.new(525 -(303 + 221) , -(1299 -(231 + 1038)),0 + 0 ,1182 -(171 + 991) );v253.Font=Enum.Font.GothamBold;v253.Text=v174.JumpLabel;v253.TextColor3=Color3.fromRGB(824 -624 ,537 -337 ,549 -329 );v253.TextSize=10 + 2 ;v253.TextXAlignment=Enum.TextXAlignment.Left;local v264=Instance.new(v7("\176\196\24\173\29\62\208","\168\228\161\96\217\95\81"));v264.Parent=v178;v264.BackgroundColor3=Color3.fromRGB(140 -100 ,115 -75 ,50);v264.Position=UDim2.new(0 -0 ,46 -31 ,1248 -(111 + 1137) ,280 -(91 + 67) );v264.Size=UDim2
+local loadedGui = Instance.new("ScreenGui")
+loadedGui.Name = "LoadedGui"
+loadedGui.Parent = playerGui
+
+local label = Instance.new("TextLabel")
+label.Name = "LoadedText"
+label.Parent = loadedGui
+label.BackgroundColor3 = Color3.fromRGB(10, 10, 20)
+label.BackgroundTransparency = 0.25
+label.AnchorPoint = Vector2.new(0.5, 0) 
+label.Position = UDim2.new(0.5, 0, 0.1, 0)
+label.AutomaticSize = Enum.AutomaticSize.XY
+
+label.Text = "⚡ HSYN64🇹🇷 ON TOP! ⚡"
+label.TextColor3 = Color3.fromRGB(0, 240, 255)
+label.Font = Enum.Font.GothamBold
+label.TextSize = 24
+
+local labelCorner = Instance.new("UICorner")
+labelCorner.CornerRadius = UDim.new(0, 8)
+labelCorner.Parent = label
+
+local stroke = Instance.new("UIStroke")
+stroke.Parent = label
+stroke.Color = Color3.fromRGB(0, 255, 200)
+stroke.Thickness = 2
+stroke.Transparency = 0.1
+
+local padding = Instance.new("UIPadding")
+padding.PaddingLeft = UDim.new(0, 20)
+padding.PaddingRight = UDim.new(0, 20)
+padding.PaddingTop = UDim.new(0, 12)
+padding.PaddingBottom = UDim.new(0, 12)
+padding.Parent = label
+
+task.wait(5)
+loadedGui:Destroy()
+
+local lang = "TR"
+local texts = {
+    TR = {
+        KeyTitle = "🔑 Key Sistemi",
+        KeyPlaceholder = "Key gir...",
+        CheckKey = "KONTROL ET",
+        GetKey = "Copy Get Key Link",
+        InvalidKey = "❌ Geçersiz Key!",
+        ValidKey = "✅ Key Doğru!",
+        MenuTitle = "  🔥 HSYN64🇹🇷 MENU",
+        SpeedLabel = "Hız (WalkSpeed):",
+        SpeedPlaceholder = "Örn: 16, 50...",
+        JumpLabel = "Zıplama (JumpPower):",
+        JumpPlaceholder = "Örn: 50, 100...",
+        ApplyBtn = "UYGULA",
+        AppliedNotif = "✅ Hız ve Zıplama başarıyla uygulandı!"
+    },
+    EN = {
+        KeyTitle = "🔑 Key System",
+        KeyPlaceholder = "Enter key...",
+        CheckKey = "VERIFY",
+        GetKey = "Copy Get Key Link",
+        InvalidKey = "❌ Invalid Key!",
+        ValidKey = "✅ Valid Key!",
+        MenuTitle = "  🔥 HSYN64🇹🇷 MENU",
+        SpeedLabel = "Speed (WalkSpeed):",
+        SpeedPlaceholder = "Ex: 16, 50...",
+        JumpLabel = "Jump (JumpPower):",
+        JumpPlaceholder = "Ex: 50, 100...",
+        ApplyBtn = "APPLY",
+        AppliedNotif = "✅ Speed and Jump applied successfully!"
+    }
+}
+
+local mainGui = Instance.new("ScreenGui")
+mainGui.Name = "ScriptSatisMenu"
+mainGui.ResetOnSpawn = false
+mainGui.Parent = playerGui
+
+local createKeySystem, createMainMenu
+
+local langFrame = Instance.new("Frame")
+langFrame.Parent = mainGui
+langFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+langFrame.Position = UDim2.new(0.5, -125, 0.4, -90)
+langFrame.Size = UDim2.new(0, 250, 0, 150)
+langFrame.Active = true
+langFrame.Draggable = true
+
+local lCorner = Instance.new("UICorner")
+lCorner.CornerRadius = UDim.new(0, 10)
+lCorner.Parent = langFrame
+
+local lTitle = Instance.new("TextLabel")
+lTitle.Parent = langFrame
+lTitle.BackgroundColor3 = Color3.fromRGB(40, 40, 55)
+lTitle.Size = UDim2.new(1, 0, 0, 40)
+lTitle.Font = Enum.Font.GothamBold
+lTitle.Text = "  🌐 Dil Seçimi / Language"
+lTitle.TextColor3 = Color3.fromRGB(0, 240, 255)
+lTitle.TextSize = 14
+lTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+local ltCorner = Instance.new("UICorner")
+ltCorner.CornerRadius = UDim.new(0, 10)
+ltCorner.Parent = lTitle
+
+local btnTR = Instance.new("TextButton")
+btnTR.Parent = langFrame
+btnTR.BackgroundColor3 = Color3.fromRGB(0, 160, 90)
+btnTR.Position = UDim2.new(0, 15, 0, 55)
+btnTR.Size = UDim2.new(1, -30, 0, 35)
+btnTR.Font = Enum.Font.GothamBold
+btnTR.Text = "Türkçe (TR)"
+btnTR.TextColor3 = Color3.fromRGB(255, 255, 255)
+btnTR.TextSize = 14
+local btnTRCorner = Instance.new("UICorner")
+btnTRCorner.CornerRadius = UDim.new(0, 6)
+btnTRCorner.Parent = btnTR
+
+local btnEN = Instance.new("TextButton")
+btnEN.Parent = langFrame
+btnEN.BackgroundColor3 = Color3.fromRGB(50, 100, 200)
+btnEN.Position = UDim2.new(0, 15, 0, 100)
+btnEN.Size = UDim2.new(1, -30, 0, 35)
+btnEN.Font = Enum.Font.GothamBold
+btnEN.Text = "English (EN)"
+btnEN.TextColor3 = Color3.fromRGB(255, 255, 255)
+btnEN.TextSize = 14
+local btnENCorner = Instance.new("UICorner")
+btnENCorner.CornerRadius = UDim.new(0, 6)
+btnENCorner.Parent = btnEN
+
+btnTR.MouseButton1Click:Connect(function()
+    lang = "TR"
+    langFrame:Destroy()
+    createKeySystem()
+end)
+
+btnEN.MouseButton1Click:Connect(function()
+    lang = "EN"
+    langFrame:Destroy()
+    createKeySystem()
+end)
+
+function createKeySystem()
+    local t = texts[lang]
+    
+    local keyFrame = Instance.new("Frame")
+    keyFrame.Parent = mainGui
+    keyFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+    keyFrame.Position = UDim2.new(0.5, -125, 0.4, -90)
+    keyFrame.Size = UDim2.new(0, 250, 0, 180)
+    keyFrame.Active = true
+    keyFrame.Draggable = true
+
+    local kCorner = Instance.new("UICorner")
+    kCorner.CornerRadius = UDim.new(0, 10)
+    kCorner.Parent = keyFrame
+
+    local kTitle = Instance.new("TextLabel")
+    kTitle.Parent = keyFrame
+    kTitle.BackgroundColor3 = Color3.fromRGB(40, 40, 55)
+    kTitle.Size = UDim2.new(1, 0, 0, 40)
+    kTitle.Font = Enum.Font.GothamBold
+    kTitle.Text = "  " .. t.KeyTitle
+    kTitle.TextColor3 = Color3.fromRGB(0, 240, 255)
+    kTitle.TextSize = 15
+    kTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+    local ktCorner = Instance.new("UICorner")
+    ktCorner.CornerRadius = UDim.new(0, 10)
+    ktCorner.Parent = kTitle
+
+    local keyBox = Instance.new("TextBox")
+    keyBox.Parent = keyFrame
+    keyBox.BackgroundColor3 = Color3.fromRGB(40, 40, 50)
+    keyBox.Position = UDim2.new(0, 15, 0, 55)
+    keyBox.Size = UDim2.new(1, -30, 0, 32)
+    keyBox.Font = Enum.Font.Gotham
+    keyBox.PlaceholderText = t.KeyPlaceholder
+    keyBox.Text = ""
+    keyBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+    keyBox.TextSize = 14
+    local kbCorner = Instance.new("UICorner")
+    kbCorner.CornerRadius = UDim.new(0, 6)
+    kbCorner.Parent = keyBox
+
+    local verifyBtn = Instance.new("TextButton")
+    verifyBtn.Parent = keyFrame
+    verifyBtn.BackgroundColor3 = Color3.fromRGB(0, 200, 110)
+    verifyBtn.Position = UDim2.new(0, 15, 0, 95)
+    verifyBtn.Size = UDim2.new(1, -30, 0, 32)
+    verifyBtn.Font = Enum.Font.GothamBold
+    verifyBtn.Text = t.CheckKey
+    verifyBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+    verifyBtn.TextSize = 14
+    local vbCorner = Instance.new("UICorner")
+    vbCorner.CornerRadius = UDim.new(0, 6)
+    vbCorner.Parent = verifyBtn
+
+    local getKeyBtn = Instance.new("TextButton")
+    getKeyBtn.Parent = keyFrame
+    getKeyBtn.BackgroundColor3 = Color3.fromRGB(60, 100, 200)
+    getKeyBtn.Position = UDim2.new(0, 15, 0, 135)
+    getKeyBtn.Size = UDim2.new(1, -30, 0, 30)
+    getKeyBtn.Font = Enum.Font.GothamBold
+    getKeyBtn.Text = t.GetKey
+    getKeyBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+    getKeyBtn.TextSize = 13
+    local gkbCorner = Instance.new("UICorner")
+    gkbCorner.CornerRadius = UDim.new(0, 6)
+    gkbCorner.Parent = getKeyBtn
+
+    local VALID_KEYS = {
+        ["apoyabasayim31"] = true,
+        ["fuckapo31"] = true
+    }
+
+    verifyBtn.MouseButton1Click:Connect(function()
+        local enteredKey = string.match(keyBox.Text, "^%s*(.-)%s*$")
+        
+        if VALID_KEYS[enteredKey] then
+            game.StarterGui:SetCore("SendNotification", {
+                Title = "HSYN64",
+                Text = t.ValidKey,
+                Duration = 2
+            })
+            keyFrame:Destroy()
+            createMainMenu()
+        else
+            game.StarterGui:SetCore("SendNotification", {
+                Title = "HSYN64",
+                Text = t.InvalidKey,
+                Duration = 2
+            })
+        end
+    end)
+
+    getKeyBtn.MouseButton1Click:Connect(function()
+        pcall(function()
+            setclipboard("https://discord.gg/t7Cyms8HZ")
+        end)
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "HSYN64",
+            Text = "Link kopyalandı! / Link copied!",
+            Duration = 2
+        })
+    end)
+end
+
+function createMainMenu()
+    local t = texts[lang]
+    local scriptActive = true
+    local lastSpeed = nil
+    local lastJump = nil
+
+   
+    task.spawn(function()
+        while scriptActive do
+            task.wait(0.1)
+            local char = player.Character
+            if char and scriptActive then
+                local humanoid = char:FindFirstChild("Humanoid")
+                if humanoid then
+                    if lastSpeed then
+                        humanoid.WalkSpeed = lastSpeed
+                    end
+                    if lastJump then
+                        humanoid.UseJumpPower = true
+                        humanoid.JumpPower = lastJump
+                    end
+                end
+            end
+        end
+    end)
+
+    local mainFrame = Instance.new("Frame")
+    mainFrame.Parent = mainGui
+    mainFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+    mainFrame.Position = UDim2.new(0.5, -125, 0.4, -110)
+    mainFrame.Size = UDim2.new(0, 250, 0, 215)
+    mainFrame.Active = true
+    mainFrame.Draggable = true
+
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0, 10)
+    corner.Parent = mainFrame
+
+    local title = Instance.new("TextLabel")
+    title.Parent = mainFrame
+    title.BackgroundColor3 = Color3.fromRGB(40, 40, 55)
+    title.Size = UDim2.new(1, 0, 0, 40)
+    title.Font = Enum.Font.GothamBold
+    title.Text = t.MenuTitle
+    title.TextColor3 = Color3.fromRGB(0, 240, 255)
+    title.TextSize = 15
+    title.TextXAlignment = Enum.TextXAlignment.Left
+
+    local titleCorner = Instance.new("UICorner")
+    titleCorner.CornerRadius = UDim.new(0, 10)
+    titleCorner.Parent = title
+
+    local closeButton = Instance.new("TextButton")
+    closeButton.Parent = title
+    closeButton.BackgroundColor3 = Color3.fromRGB(180, 50, 50)
+    closeButton.Position = UDim2.new(1, -35, 0, 5)
+    closeButton.Size = UDim2.new(0, 30, 0, 30)
+    closeButton.Font = Enum.Font.GothamBold
+    closeButton.Text = "X"
+    closeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    closeButton.TextSize = 16
+
+    local closeCorner = Instance.new("UICorner")
+    closeCorner.CornerRadius = UDim.new(0, 6)
+    closeCorner.Parent = closeButton
+
+    local minimizeButton = Instance.new("TextButton")
+    minimizeButton.Parent = title
+    minimizeButton.BackgroundColor3 = Color3.fromRGB(60, 60, 80)
+    minimizeButton.Position = UDim2.new(1, -70, 0, 5)
+    minimizeButton.Size = UDim2.new(0, 30, 0, 30)
+    minimizeButton.Font = Enum.Font.GothamBold
+    minimizeButton.Text = "-"
+    minimizeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    minimizeButton.TextSize = 18
+
+    local minCorner = Instance.new("UICorner")
+    minCorner.CornerRadius = UDim.new(0, 6)
+    minCorner.Parent = minimizeButton
+
+    local speedLabel = Instance.new("TextLabel")
+    speedLabel.Parent = mainFrame
+    speedLabel.BackgroundTransparency = 1
+    speedLabel.Position = UDim2.new(0, 15, 0, 48)
+    speedLabel.Size = UDim2.new(1, -30, 0, 20)
+    speedLabel.Font = Enum.Font.GothamBold
+    speedLabel.Text = t.SpeedLabel
+    speedLabel.TextColor3 = Color3.fromRGB(200, 200, 220)
+    speedLabel.TextSize = 12
+    speedLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+    local speedBox = Instance.new("TextBox")
+    speedBox.Parent = mainFrame
+    speedBox.BackgroundColor3 = Color3.fromRGB(40, 40, 50)
+    speedBox.Position = UDim2.new(0, 15, 0, 70)
+    speedBox.Size = UDim2.new(1, -30, 0, 26)
+    speedBox.Font = Enum.Font.Gotham
+    speedBox.PlaceholderText = t.SpeedPlaceholder
+    speedBox.Text = ""
+    speedBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+    speedBox.TextSize = 14
+
+    local speedBoxCorner = Instance.new("UICorner")
+    speedBoxCorner.CornerRadius = UDim.new(0, 6)
+    speedBoxCorner.Parent = speedBox
+
+    local jumpLabel = Instance.new("TextLabel")
+    jumpLabel.Parent = mainFrame
+    jumpLabel.BackgroundTransparency = 1
+    jumpLabel.Position = UDim2.new(0, 15, 0, 100)
+    jumpLabel.Size = UDim2.new(1, -30, 0, 20)
+    jumpLabel.Font = Enum.Font.GothamBold
+    jumpLabel.Text = t.JumpLabel
+    jumpLabel.TextColor3 = Color3.fromRGB(200, 200, 220)
+    jumpLabel.TextSize = 12
+    jumpLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+    local jumpBox = Instance.new("TextBox")
+    jumpBox.Parent = mainFrame
+    jumpBox.BackgroundColor3 = Color3.fromRGB(40, 40, 50)
+    jumpBox.Position = UDim2.new(0, 15, 0, 122)
+    jumpBox.Size = UDim2.new(1, -30, 0, 26)
+    jumpBox.Font = Enum.Font.Gotham
+    jumpBox.PlaceholderText = t.JumpPlaceholder
+    jumpBox.Text = ""
+    jumpBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+    jumpBox.TextSize = 14
+
+    local jumpBoxCorner = Instance.new("UICorner")
+    jumpBoxCorner.CornerRadius = UDim.new(0, 6)
+    jumpBoxCorner.Parent = jumpBox
+
+    local applyButton = Instance.new("TextButton")
+    applyButton.Parent = mainFrame
+    applyButton.BackgroundColor3 = Color3.fromRGB(0, 200, 110)
+    applyButton.Position = UDim2.new(0, 15, 0, 160)
+    applyButton.Size = UDim2.new(1, -30, 0, 32)
+    applyButton.Font = Enum.Font.GothamBold
+    applyButton.Text = t.ApplyBtn
+    applyButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    applyButton.TextSize = 15
+
+    local btnCorner = Instance.new("UICorner")
+    btnCorner.CornerRadius = UDim.new(0, 6)
+    btnCorner.Parent = applyButton
+
+    local isMinimized = false
+    minimizeButton.MouseButton1Click:Connect(function()
+        isMinimized = not isMinimized
+        if isMinimized then
+            minimizeButton.Text = "+"
+            speedLabel.Visible = false
+            speedBox.Visible = false
+            jumpLabel.Visible = false
+            jumpBox.Visible = false
+            applyButton.Visible = false
+            mainFrame.Size = UDim2.new(0, 250, 0, 40)
+        else
+            minimizeButton.Text = "-"
+            speedLabel.Visible = true
+            speedBox.Visible = true
+            jumpLabel.Visible = true
+            jumpBox.Visible = true
+            applyButton.Visible = true
+            mainFrame.Size = UDim2.new(0, 250, 0, 215)
+        end
+    end)
+
+    
+    closeButton.MouseButton1Click:Connect(function()
+        scriptActive = false
+        local char = player.Character
+        if char then
+            local humanoid = char:FindFirstChild("Humanoid")
+            if humanoid then
+                humanoid.WalkSpeed = 16
+                humanoid.JumpPower = 50
+            end
+        end
+        mainGui:Destroy()
+    end)
+
+    applyButton.MouseButton1Click:Connect(function()
+        local speedVal = tonumber(speedBox.Text)
+        local jumpVal = tonumber(jumpBox.Text)
+        
+        if speedVal then
+            lastSpeed = speedVal
+        end
+
+        if jumpVal then
+            lastJump = jumpVal
+        end
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "HSYN64🇹🇷",
+            Text = t.AppliedNotif,
+            Duration = 2
+        })
+    end)
+end
