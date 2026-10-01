@@ -1,1 +1,457 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local H={"k]VlnCMjI)l","k@@Vn)9o::","kQ22AdgALFcUdrj%";"kb:GjPke_l%","kqe.=*b6/D7WG","kS<O;S","kYb\"QD/\"*#fJrh(,u/","k?qtpT","kn\'q:","kl-\\s","kuNhg";"kXu2fV>Vi9\'K)*\"c47\"","k\\B1,-","kMdWi^:ORN-)#`6","kU,1k7u(I%ijV";"k)&=-","kX,i[+3IIn9TV","kX#D^@QYlP`";"kekC?","ktb%Z","k96-brIY`XCUll","kk7JQM>o2I","k^AV`i:h<&o";"kMm1qe;_1M","k;XS7(F\"[c/X&b#2)6E_%","k-ogB1";"kU\\hna\"=JG(nlU","kPbe\':0;";"k/9*Ntc9e","kXW>&RGqq)<k-Zmuh35#J";"kqI5)^`(/f])K@3tMWfY_";"k;,NR:+nE\'","kUJ=$gO:b(h(4UCl";"kL#MW4","k.LfYe";"k:Xf:CTNu&9%!ENL\\+WMf=5]7&/70","kZPL5CQYM=d";"kW.H_";"kd2jb","k@\'qM5sda+t8$4=8/o?_1J6";"kdFak","kelp8f\"eU=j(unUD&OP&s";"kM72G","k8#iLE`Z","k5OjWcUY#>]Uqk&sKd","kN]psgk:;OSC*\"l$slQ","ku7P@^k^H";"kf=G.\\","kO+F+","kQXqJQNLCCf)+]0cM+D=";"kUqI)D2`I5Tct3";"kB=r$2+KQ;&>o2^\\","kN7BJK<E^sVhAUS+F>3i!","kQ1$`/%o+$n?Wr";"k6NW^;Pmd0P";"k)HHH^NIE]VeDYt?3ACDn";"kA:,a#qFK","k:_g^W\'h)`@:Ur5V)M/D?`i\"YCt?Dgjr^4&[s*<";"kp\'q7X:(1WMItB\"F";"kfYf:mmeEu";"k6Pd_a";"kuNF^)=C$^uJ*m","k8G;D1G0Q]S9*q/TI>;\'m";"kO:n?\\5/";"kpoNJ_(Te","kjAfIaMp[I&";"k#+>jB";"ks-57#FhnX","kPc<p";"kAHRCt";"kS\\%d/";"k)e:_,\"D)","ku#%2Ni/CVDF^0QF";"kt[3_j0S?ad","kt$!D2","k;tmP`q1L%";"kRcnPr","ku\"$AuP_s","k8ImRQYi+","kTV","kJ)/k?U1]`","koj@^,ND^5rll7NU\\o1(r";"k<V?P5QOOk^+K";"kD0m\"r";"k\\7N\")\'!aP3";"kU;4Fp..e-k6mOtd\"Ug[Q","kIus","kIL1]";"k_Kr)>4Ak/l/k\\pQ","kq:ulP","kf.#/CRs;PY4_M","kOpnaVcs:>\"-X+*pFmI+Zl6V=bL*h";"kbEqM@$g4ePH6","k$5aIpDI6US","k2dp#C,-S>4","kJ3-g4I$7)CI`8HFl1:c>";"kb&^2j","ks0=Onr?1Nn/0d","kcJ-";"k22N\'","kUX@bh4*$j-%[.%0","kKG2C)";"ka-_7b","k(-$>%(kQ";"kj:f!c";"kD*5-#Ti+!\'_Mt";"k>%\"_aUR7.$Zi-1,U:";"ktamc+akNW","k;ZrB5-`FFF(&b;F";"kfom&","k4(!%$<FZi&","kH6)=:","kS1f^,ZlnM@tE","k=Y^W&@OUH>/BQn[?/CBA\"o";"kPAn3";"k\"O>f$Jq";"kYS,t","k,;<Bo>S0(`NI?Za<dt","k!]nYe!Pe";"kL\"K1","k$YQghGT1\\3CEf;#1\'0\'$","kH<!Umm%W5@Jq","k5+kks,6","kFr","kO`PF]5Z`-]kZoVKg6";"k2bBmta$l:";"k`#m#ab6>E2Q-(","k!o\'q";"k\'L.5sO`eP/pM`\'LUi_";"k$Z1NP\"CdB3_c7Z:";"k\\0oDO13>";"kCp,<Dc:TM>","kFibr6";"kc(VXRcE&DV$+^P-";"kY.X7*q++";"k70:tHcHPBQUL\\H-j(HVc","k\\VOT";"k@0<67E(\\Km";"k8qPBkbaDW=W\'pq>Zru,","kSUY+Tq\"-f4eRe","k#dkU","k;etbsMOR4`ZnhIG*C9O";"k\\Ta3";"ko[U4m42ee2(-#,","kG!fE?XsE_";"k`OAWl","k:!O%Nm3A2F","kS*]8>l*r,,*u";"kAe\'E","k80nK6J5:BOj.";"krjf-BD\"U&lXQ?K\'=D:","kC6P+";"kpjBY8,f=A9Z-D:9";"k0dE/U\"gbj2PW=JL$*,Lis\\o$RMKd#(m1\\@r*b4Z";"k)0TKa]u@t]$SQ\'ueS+Jm","k\"k\"4";"k0@/GAPqm$","kG=2QNsYRP:>N?","k>o140","kGCDV\'\\6rSQ72qqo2o`G","kMb[b","k*$IIaU%Ab\"","kBpaW3!iff3","kFdGW";"kj5X;+jIAhf$.#+\'!*","kf`2SdM;,c","kp]9jh?h\'+0U!Y1!C%E]YP:";"k:_sW";"k,0e","k(#Bqr","kY!uju\'7#&tU@=4C?<t","ksOAtQ$XS9<a\'","kPOk!<^A8IWMCP,Acn";"kgB0=@O\'1\\W5@Q^a\\5";"kahBj","k)ZRKU","k\"bUH7B/","krZ8N&4pf#";"k-s[u;e_4L[JhgB>Oj7nr7*","k^JcB9n^0.-";"knZ<L<4<7*>","k%bLYWFqOiO","k1`=$r@-r","kR\'Zh+`:@p+/s9","k&>$\\9k?EF#&/7";"kNQ3WWllrr1FC(t=/UjOA","kB!M*Xm<s^]";"ktHXHA%VZ>","k\'L,29LZ/";"k<UE?M0I3lM","k*?WDIb^V";"k;<,-";"k&3?]aL1FB&";"kTt@3-6/Y";"k2X^aE?Lar","k9$*b!-uZX=0;";"k`@f1bGg0","kSr@\'!","kuubY(U=]]Nmdl*O]EDNY";"k.#7ZH","k%Q-CZQ#X","kpLo#?";"kJ]\'8@2t","ksln0BT+E4I<e-_\"Ecls";"kp>IBd";"k!gV6b`2j";"k%HKH)kE_r","k5.k_","kAGH8kiPHq","k;<s7","k%fViDFI,=S#-D";"kXiRo!5<1H^K9c^VnV";"kBJq\'$","k/A9A)LdU_","k*IJkGk$.FB","kXb>X7n;G/WH6","k8I<oY","k(,QD\"B+B<)u,:q*6T4M(s386JJ0`8Q)?g5i&I_<LIR%gYjbB<";"k\'l^o-`R6A","k$&8uNc-EcVCZk1DL&lj";"knkJg.","kGV?7%,jh%,";"k!BXL,$igU]hFL";"k^5Y=EC=P8V]?AMf7lSf_";"kXZVO%G\\r1U";"k*hm-";"k5GXSdA\'<r";"kZRgdp";"kU&k,k\\*=Kh","k6U[n$:Sc","kP;#A","k:HmhWPG$Ms/!p;j\\6HL;","k6YdP";"kEH^X8dC`T\'hr.";"kqS43j9o;Nd","k)8I0";"km)Dl=1h@EFc8leZ-MgD*";"k_nk,","ks:=+ESt";"k\'FI&NrtIag","kDNKZ^aPAbHK8d!jMq%VhtE","kjMi/\'-e?1=";"kIB(g.a=2^#js9/r0s_S\'p``OFP[[GnW9$";"k8;j3$du_T)ouo";"k^kch";"k*7+9@15HR>aXt3ZeeQ=r";"koFl<07t>jWbY)Q`6%0ZrMB5";"k)M;P,MN!Va","kXJr*0!/Bk!pWnK`";"kX2NdX>2uTs%OW","kLoe`1","k%l/g##&4=)+^mdC";"kUudIr(TV","k1q$9si.Z8/";"kE*<B";"k:N?-Y","kD7h40";"kR@ZG1jD\\eM","k_\'GiO","kUnGop50:5J";"kPjK`/-8l+","kW.G<C]A)g","k$FO";"ko/3&jT#/mRX3B","kU,O/%O$";"k.#7bSn.","k15n0^","kqd3p%6WNhG4OL";"k7t;9)2anK","kgtOtnkqah>5r!X^";"kH.JCQ/9Z.s";"kBDt40A)@,";"ki2/Zq";"kklcES4j#IG\\9\"Rj","k4A7c0OEBYdgg/Jg";"k>]>@]5S@","kbjcW>&=&k0mO","kt-DU";"k(%<O&490i-UlICpgto";"kiL?^@o-;J";"k_.ras";"k!`K/L";"k\"=@IO7I";"k;(TW0-6J!Y","kAP<(QO=8o";"kf?%b";"k5JZLu\')]<p!!9=>UC;";"k>a^/7LsCXFtE","k_-";"kBi_-+&X2\'Y1M";"kMMH&/:R>c","ki2\'?>)BQ-N7+BuR","kk&VE8";"kgAl`MjAO)^UJ*Y8>M","kAPY","k]%$n(";"kOl`ft7=","kN4Ila","k2<JT","kk,,Wkgh";"kjXF\'f","k`]%O@;M.8a7MS-cmFU","koqs\"","k.q_-\\aSJWE","k9\"HF","kS.#-";"k#!G<@rF-3FRN81","kQ,t56nVUE%GiS.^!Is","kSJ/n[\\\\:","k8t\'<","k&`sTH`3@1:U:","k87h)","ke;_T1lP@";"kq/,C[\"`/-9NVEaf#3Prg(^(uO]<EDD95TYla,\\SSER/8b7h8C>","k)J<B0";"kH$Lu:7)V\\";"k2[IY";"kmJ8gF6@:V","kBSHdV==J2:4p:V,","kgf/lGjUc:X\':!,K","kXu>lG!%Qnt>F*6f)2-";"kpQ%P","kIe[scM/p","kA_l$E)\'>V`pkb";"k8)jSIe\\.P6\\-QbQ","k,dLN;d?T";"k^t_]ca1R.";"k!9S^0=KZVb(?Dd$\"Z^)a";"k<.pZ","kU<dZ4n2h","kXSTeoXO31bO>J5?5-","kI,1l@";"k$:C`:\'-u","kT[,FJJLE9p@hi\"R";"k\"9.Mn/c^m_";"k?euWj";"k:69u?9b9\\";"k!b;lE!b;slU(\\YH,9<","kGM>`m7\"^W","kMje[A:j#\";Gh6UA]>g[Q","k0kCO]chTKuL:","kM&k:\'ac2*jc3/<S<(9","k7S9pP-18N";"k\'i^s","kOcd,J5/";"kC/IZ+<:;HVd\'t","krN(=j";"k\\BId","kk\"fK.9(eOf(Nh";"k.#7N0O!6V";"kPd.:A";"k(F^p$FT3G.";"k?7kH&","k\"_8n","k=G9WI6s^p0","ktPALT";"k5ZR[pdXlSM";"kl?;46#(CL\\6Q\"","k`(6cg7(_FiMP$","k>n7C+Zh\"\"_aKo6dL,eZr","k,\"t+@*F8O7al+RSjMC","k,53Zn5Rj=[&53";"k<_t";"kb6AK\"qpB)a>VuX&-<6";"k\"V\\\\qYBt>%E4csZTP/WU";"kT=<R","kIqpVe","kNWtuXCJt%/";"kjIkoU\"J&b","kbDdR","k((a/AiZT";"kF7&c_(>:h";"k=BeA!;dDm<k\'!Nu";"kB1AN9>:h)5B16X447Z";"k4d/7,M7lt";"kEh8k","k^ttbr?tR","kTP?CO";"k20Ea!Dc$jiaJ`";"k+Gj)uB@[Gr4YMY_\'1_4r";"k`MO(q,Cj","k@[AjVj.","kg>/*S","k4ZcE:S%?`u_0L7t1U_";"k0**Dclr3W:U*o","k>[fU65t>L";"ku64G/`$:","k^Mfo","kl;ei";"kWjSoNg6";"k.-UWI@Lo5ekP:";"kp`;nJ","k-ZY\'8qbq?","kRC85rFag).","k)o0/^Ue\"<o","kYqsZ","kAaQX*suSU!c2;";"k.!47k\\Zi$Z*S06","kG\'e7/%]FsWoH$gV";"kl@UPiPs=@$]>qYVD3B\\=","ks7j_eMCP25lc";"koWGrO";"k2c?h[GPEE`";"kB\\]t";"k;DS8+","k;Y]_L/TF%ec;%","kHc]`k+71qU";"kPN<\\8uBJQk","k._O3P%R#]Y*1H0U4G>S","k514uQ","k.umho8?L","kSU<n","kN!N;mB^CU";"k`;O8SQ[(%4o>JLA2T_";"k>P/e*$\'FB<O;u`Y!Q-","k\':h:\"(Q6^@";"k,00","kF3r>kgg#].-?t#mY&H","k$eUkr%AW","kA;=p@mFfbObE:7)0i`","ki--5P7f.";"kul!-I?%7";"k<qNT9\\/\"t";"kRg<65.`9","k.#7e6U,pKP(b*:","k-V;#";"k4\\,i1UhUc1$P6GNZ-W";"k!S?n:9)4rf%&\\BkBB%8B";"knAA)P","k4EuA=iU2]mi:Hd";"k/$ALHo:8JN","kce0]>Z,_N4\\+`","kkg.WE`k\'OIiZYWR","k--9-s";"kPs3rJr%C,q^pX/4";"kCN!,oe*\'a";"k+CsU@cBe;","kUnGhRnA!q3","k-:2\'","kcG(Y","kfQm,";"kl,64J","kMd\'Q";"kt5\'p*so\'D:;6tSF/i:D","k5;`0VgupV3@1l5oX:";"kK.qE:D*&";"k11VnOImR)f","kJHE@V%+<&7","kgJ`,Y","k6gZ<a]n2uJjh1";"kl`&9","k5M0!hU\'Ba.Dck";"k31()4","kLG:uW","k6O,VW?1aR*lo^","k_\'G*@";"k-=2bT_6A+R/-","k*i7$Kk</2l","kt.rt";"k*JMVsIJ:+K>!HYS6m_\'(M-NL,!ZC";"kg9Yj3rS7";"kQ?fV!\\\"0>pXe3h/4rM";"kUJ=$q,9DM[n@@]3";"ki:<*,";"k<^tR","kA\'/$a8ei","k^hqnCt&:";"kRr\'D#C:u","k2@gu7";"kGL/KR]u0T3HT+qUX5.\"6j.";"kT^WPi";"kq=pB\"L*:o]L*OK[_\'NNmom3Z;CA\"fe5FL";"kf4W`","kh@Y-X!9.H$C8kXbF1-e","kM`5S6";"kZhY>bg-!N#","k\'Kl6mmNa";"k\"H\"?:","kf4nF:H50SlsZISq";"k>P<h/4r]<kRCbNX";"k81^7";"kk+\\/YO:O`6O:b=`U,FV+","kBpjQA5ScHln\\qQM!_h";"k]T,*","kQF4hkn*:,","kX\"VrON=,-","kMZ-AW2tt:mqC%\'r";"k$4g\'*","k\'m80tkb(`Z","kZiJZpKNhn9(8SYiKd","kiMKlfuONL8s=3Fl","k`6bsKnV7H-","kng1A","k.=p@AfN2,8p?[P4J=7AYNV";"kl\\Odk=<Vm`Bnp","k(_3`7D%\'I!","kq6npS\"Pl\"fJ3A7L","k>f$tr/s4";"kOi?666.9#\'cu";"k_bWm","kKg%i#dJJiNlc";"k!Q@>0","kcpA:P";"k+4X`","kfh+S0K4H\'6eNMji/p(*D";"k.Xr[nS>&h^,PQY1^=DuU/Q";"kD(-KKpk,qDaOD3D\"@?";"k0s[LO*\'pnfHFEsN=m<\\bW;";"k(P\\i?/aeWYAcV";"k!9XajS3V2#","k2CaCt<i:q!";"kBA[]";"kD+\\-X#7XiGcd","k1C;He8FQ";"k2,HeVL%4";"kT1L@";"kQ!CrJ";"k\"+$7,lObjh";"kkk&UHqbQ*+M?T]hGT7","kPu4AJa=0.","kB0\'<p@A$/C","kr%Z0l@Ze6;%3=","k@KihI<B^HI_;+","k?J;oM?4uG6Hh","k$M0GfF(fZ";"kknEDT?kPH_8(=>>j]","k0BlYS5epl5","k6fH\\","kU?X%","k2h%KXgSg","ki5o:IHIKe&","k#RUuq";"kfZ\"Q0lMP","kT1Jc","k9i";"k1&CWQ","kD#mC","k29cokL5A_%";"k_$>R`o/:7f7UF";"k$=.2#","kk,,Wk";"kne\'L%6U!-@+c","kM`Zrd";"k_/(WAtR3&","k\'G*nRQ\\RF3UeDch$R/";"k<AJ$";"kltjPRAY^jo";"k)<!H)C,.!8";"k5luM-n*i","kkfSNIpbs:\\K5";"k]3h7p";"k&$(DLU;g&RoWm!^\"iQ","k:%E+","kHuOT","k","kQbD3CCr^_Wp,ac;","k<+J8V2W);=;P.P10^%N$_k","k50\\<+ZC,";"k9%i^","k1Cqs,.\'5\\\"hVr";"k$S9)\"jYebak\']MH";"kW,FnZp[(C?\"&XCVq$eLEqiORMbdZtP,;qbj";"kjrT^\'\\CRg","kY<<(H","kDaA4+2?aPH<k";"kk0otYn*^:","kdUiuAYpE]I#!V","k\'A8P$]i05tJ.9/)=mC_Q^9Ilde3(C^&NPV`";"k;JeQ";"knuML","kq)%`;","k6bR\"(";"ka=XG,\"=k","k;0+SU";"kq\\\\\'X$$JGL&,H";"k!*\\g","ksp5.sN1K","kR`+ak#Gls(2M00HFRn)";"kOCt?";"k;k5k)LN9","kUnsnFXA]Q^_Bs&i;8`";"kaBWn67`Q#m";"k%?=$";"k!k)Hh\"o";"k;0OQ/Or1";"k5_m,G";"k`!)&";"kjeb1#tM3","kXS5YBh7`9TA;CUQ,$b";"kD_Q>4>k#","k&GB^\'6$/se9XemL";"kGabqGZ1N","k1R`aEf?.5-;o=";"k@1\"_cA\'/\"hHh","kB/";"k:jZ";"kP<\\O";"k\"o-#";"k8LhIJEp0<p";"kfrZ[","kshPEDtHGn(-ei";"kS>qk;h[KO4e4p";"koY<Oo<kFPD/Q","kHSIgCE\"I,hFSW]M","ks$)9.Toa";"k68&AO";"kJjHj";"kCQ[IKRerN],^0";"kAZo;hQsqKH(Te","kLarj`L2S+@","k4\"#ZTLY-8*GS<,oiA\\Y,","k7GZPC2sk,<","kYqq8U\'2fL#RE6TR/W9V9W;","k*Et-oWV1YH";"kl^AP+ck(?t!qlkr";"kCaLpi","kK)39I";"kQ5([";"k1elK$b0D";"kFo\"7QU!q","k2b%&C-Jo\\";"kU,p>+";"kMl,?J","k?+2\'+";"ktE]$r";"k>]>aDO^**";"k&QX4","kR6J_F","kkEKF0*(l!!piX=77GC[A_FkH;";"kA\"mrUW=XRt","k@O$\'3\"V@";"k=2a9@fi-";"kTi=S6FOtQ","k?;B.PP.#]C?\\1gl";"k]BQ).g\"B`%63(","k1r\'(A";"k,Y%4";"kRS9SMlE4d.l\'";"k(T64\"","kIAlhNjI2a(Ol6","kiYH\"PMVoFi(=","kW08"}for m,l in ipairs({{-442485+442486,11120214%205918};{494014+-494013;-756340-(-756355)};{976403+-976387,229197-228555}})do while l[605453-605452]<l[1259082696%15354667]do H[l[265924-265923]],H[l[252758+-252756]],l[727648-727647],l[515374+-515372]=H[l[-700544+700546]],H[l[3070833586%12332665]],l[-532979+532980]+(910161+-910160),l[-619857+619859]-(-201870+201871)end end local function m(m)return H[m-(419774+-385217)]end do local m=string.len local l=H local c=type local x=string.char local R=table.insert local p={V=2054355184%11739172,h=262096112%12480767;S=1023397+-1023338;r=-375904+375915;["!"]=181957+-181935;Z=46481078%1291140;M=1006506-1006434;R=3334664155%14755151;u=-90763+90826;I=968893-968879,Y=-897107-(-897169);["]"]=-105905+105962;T=1843038864%7342784,["\""]=-528663+528737;[">"]=-119149-(-119170);L=-583431+583450;F=108100892%472056,e=-1022316-(-1022372);A=10205969%2551489;n=-140603-(-140638),d=49938+-49930;["%"]=1995547663%9782096,["*"]=255099+-255030;G=-919761-(-919836);["&"]=756589278%5010525,B=-926784+926802,l=630282+-630218;["@"]=921720-921653;["7"]=3688752800%16767058;["4"]=-684980+685005;O=209752-209720,f=-236952-(-236995);W=-579879-(-579926);i=814245907%6729305,m=376349-376288,b=81248+-81195,["$"]=85470531%418973,["-"]=-871231+871312,["5"]=407605173%4579833,c=828153-828075,g=-520637+520653;["<"]=904120+-904111;Q=527269910%2717886;k=624722877%3653350;[")"]=583667860%6275998,["3"]=-782766-(-782848),["?"]=807608-807538,X=2507313594%14493142;[";"]=-900414+900462,o=-189600-(-189620),["."]=656999610%2670730,j=-1043338+1043355;["9"]=99846-99775;["+"]=64713+-64703;t=-500261+500327;D=181976698%15164720;J=-73231-(-73238),a=660649-660576,q=-390394+390400;["="]=824992917%4714245;["6"]=-137213-(-137273);["/"]=-174469+174523,["1"]=-987967-(-987979);U=-3326+3363,["0"]=801850-801785;[":"]=465169+-465118,["\'"]=110243+-110220;P=78730871%15746174;[","]=1586710202%9675062,["^"]=48866-48817;N=-778612-(-778656);["#"]=-678849-(-678904),["\\"]=1155858431%8139848,E=381446-381401;["8"]=1295281250%5397005;["("]=904411-904380;["["]=73186-73103,["2"]=340668061%9733372,["`"]=1996539521%8116014;H=3124007632%14330310,K=765962322%5072598;p=3700478727%14626398;s=-263438-(-263514);_=1344817432%7818706,C=39350-39346}local E=table.concat local X=string.sub local T={p=79202+-79156,u=499482+-499434,F=718603417%12832203,O=46295215%7715860;q=430928+-430869,Q=523133990%12455571,l=3163297949%16475510;g=120171542%613120,["+"]=843168457%15056579;r=408277408%2815706;T=327849758%1801372;s=189481758%2786496;z=1978683600%8419930;U=457155+-457108;K=754129-754092,["8"]=-929283-(-929340),o=182242072%3796709;["3"]=319591+-319587,["9"]=2437843919%15728025;k=3464287082%16038366,a=-146471+146502,G=296717+-296699;f=193660+-193633;Z=-340610+340623,J=296798+-296742,D=488053+-488038;W=-181779+181842,I=422356-422295;["7"]=354871420%3347843;R=30579+-30554,n=-88179+88237,m=62393-62386,L=-894375+894380;["/"]=1223165691%11991820,h=1472079726%7914407;x=803278+-803276;H=-49666+49666;b=1033049258%8983037,c=-137214-(-137246);N=341595198%4679386,["6"]=-207908+207929,i=798444-798432;["0"]=-1003447-(-1003458),v=322611+-322601;P=-505095+505123;V=978908+-978863;j=-216624-(-216633),["5"]=186726375%1025969,t=1683545169%11531131,X=-445885-(-445924);y=798382+-798346;d=-888-(-948);C=1170298876%5765019,["2"]=931507+-931506,w=257452016%9902000;["1"]=707593+-707540;E=626209+-626167,Y=679006+-678983;B=-463518-(-463570),S=-337499+337534;["4"]=15194981%148970,A=-848374+848388,e=-987314-(-987348);M=553397-553391}local z=math.floor for H=871363+-871362,#l,51515556%7359365 do local o=l[H]if c(o)=="string"then local c=X(o,1659302767%13713246,-875222+875223)if c=="r"then o=X(o,-359624+359626)local c=m(o)local p={}local S=-923101+923102 local C=519436320%10821590 local b=692039+-692039 while S<=c do local H=X(o,S,S)local m=T[H]if m then C=C+m*((-519858+519922)^((3450532482%16199683-b)))b=b+(908598+-908597)if b==-564425-(-564429)then b=1253160480%11392368 local H=z(C/(-324972+390508))local m=z((C%(694487-628951))/(439272028%6459879))local l=C%(-942303+942559)R(p,x(H,m,l))C=195001+-195001 end elseif H=="="then R(p,x(z(C/(268481+-202945))))if S>=c or X(o,S+1384171713%7864612,S+2308009993%11203932)~="="then R(p,x(z((C%(1115127666%4685135))/(-706381-(-706637)))))end break end S=S+(975418+-975417)end l[H]=E(p)elseif c=="k"then o=X(o,2569319407%13888213)local c=m(o)local T={}local S=-96976-(-96977)while S<=c do local H=(c-S)+(-715421-(-715422))local m=H>=788056-788051 and 1524255073%6246947 or H local l=-484936-(-484936)local E=m>-310194-(-310195)for H=-436313-(-436313),226669-226665,342546+-342545 do local c if H<m then local m=X(o,S+H,S+H)c=p[m]if not c then E=false break end else c=1751500575%9895483 end l=l*(-93729+93814)+c end if E then local H=z(l/(17764428-987212))%(3830647630%15384126)local c=z(l/(-226848-(-292384)))%(-706742-(-706998))local p=z(l/(123586360%5149421))%(587233+-586977)local E=l%(278853+-278597)if m==-378794+378799 then R(T,x(H,c,p,E))elseif m==70952709%2446645 then R(T,x(H,c,p))elseif m==-897245+897248 then R(T,x(H,c))elseif m==24448+-24446 then R(T,x(H))end end S=S+m end l[H]=E(T)end end end end return(function(x,X,c,H,R,p,E,L,P,e,o,h,T,z,l,S,k,W,C,B,v,b)P,L,h,C,T,v,l,o,B,e,S,z,W,b,k=function(H,m)local c=C(m)local x=function(x,R,p,E)return l(H,{x;R;p,E},m,c)end return x end,function(H,m)local c=C(m)local x=function(x,R)return l(H,{x,R},m,c)end return x end,function(H,m)local c=C(m)local x=function(...)return l(H,{...},m,c)end return x end,function(H)for m=685559969%5619344,#H,777824+-777823 do z[H[m]]=(146487-146486)+z[H[m]]end if x then local l=x(true)local c=p(l)c[m(777069-742147)],c[m(768637652%6405024)],c[m(996225+-961387)]=H,b,function()return 1020867-(-37147)end return l else return R({},{[m(2767+32005)]=b,[m(-206813+241735)]=H,[m(-468968+503806)]=function()return 761657694%9507496 end})end end,{},function(H,m)local c=C(m)local x=function(x,R,p,E,X)return l(H,{x,R;p;E,X},m,c)end return x end,function(l,x,R,p)local K,m_,g,q,W_,G,a,V,S_,Y,k_,b,U,b_,x_,s,j,A,z_,S,H_,X_,E_,u,f,w,n,h_,B_,z,J,C,p_,l_,i,Q,v_,o_,T_,O,C_,I,y,R_,h,e_,r,c_,F,X,t,D,d,M,Z,N,P_ while l do if l>1832732712%8689550 then if 10970390-(-709950)>l then if l<-840900+11156520 then if 8901680-(-356534)>l then if l>8041550-(-771717)then if-157426+9044458>l then T[S]=F l=w w=T[S]l=w and 930840+906677 or 15316609-(-250396)elseif l<903367+8039338 then b,C=8142647416936-231833,m(-917780-(-952439))X=T[R[572178-572177]]z=T[R[-894666-(-894668)]]S=z(C,b)z=m(612536-577578)l=X[S]T[R[1336663818%6217041]]=l X=T[R[39062-39058]]z=X[z]z=z(X)X=T[R[69597-69592]]z=X()X,l={},H[m(667073-632018)]elseif 919745+8082280>l then X=T[R[546276786%6581648]]h=m(-398624-(-433463))S=T[R[1592285808%9650217]]r,I=-1019526+20186020557629,25248192058162-1025349 C=T[R[327232-327228]]b=C(h,I)z=S[b]I=m(-337780+372641)C=T[R[-375736+375739]]f=2612806209642-(-390230)b=T[R[-684939-(-684943)]]h=b(I,r)I=28603030176435-(-29012)S=C[h]X[z]=S X=T[R[-1034641-(-1034646)]]S=T[R[200944+-200941]]C=T[R[-534296-(-534300)]]h=m(-78172-(-113006))b=C(h,I)z=S[b]S=462809126%7407354<=299369+11078285 X[z]=S h,I,l=m(31253173%15609131),-462781+20501309601031,-924726+15423500 X=T[R[246988944%5880689]]S=T[R[884803-884800]]C=T[R[159694154%14517650]]b=C(h,I)z=S[b]S=12670276-(-554621)~=239924+11865509 X[z]=S X=T[R[-44296-(-44303)]]h,I=m(326394+-291677),15718354119568-(-995591)S=T[R[-480969+480972]]C=T[R[-578831-(-578835)]]b=C(h,I)z=S[b]S=5180870-47251<=10014138-(-817973)X[z]=S I=-271570+16795662189407 X=T[R[709992+-709984]]S=T[R[390388259%12199633]]h=m(292267903%5038503)C=T[R[939416161%4031829]]b=C(h,I)h=m(-388057-(-422705))z=S[b]S=961343436%15418218~=5542402507%22055778 X[z]=S X=T[R[792927-792918]]S=T[R[3081936443%14008802]]I=35014250160923-(-138389)C=T[R[584270+-584266]]b=C(h,I)z=S[b]S,I=594763+1784186~=16671+14321945,323865+2066140123817 X[z]=S X=T[R[30505-30495]]t=m(-602476-(-637347))S=T[R[52175979%2746104]]h=m(915975+-881110)C=T[R[270524992%2940489]]b=C(h,I)z=S[b]b=m(206619+-171747)C=H[b]h=T[R[608418-608415]]I=T[R[260472+-260468]]r=I(t,f)I=145798+-145798 b=h[r]S=C[b]r,h,b=611891-611676,-54758+55008,632061699%8000781 C=S(b,h,I,r)X[z]=C else l,X=H[m(488020-453174)],{}end else if l<8940289-412856 then if l<-23353+8103273 then G,u,a=m(12743627%2541759),179320-169320,184006671%1045491 F=o()T[F]=w Y=m(-568644-(-603645))U=H[Y]Y=m(-580599+615720)N=U[Y]Z,Y,n=-955497+955497,505756+-505755,-495545+495645 U=N(Y,n)N=o()T[N]=U D=25668+-25667 U=T[t]n=181502750%3300050 Y=U(n,a)U=o()T[U]=Y a,y=216355448%12726791,-918557+918559 Y=T[t]V=T[N]n=Y(a,V)Y=o()T[Y]=n a=T[t]V=a(D,y)a=38186-38185 n=V==a a=o()V,y=m(-420337+455181),m(-749222+784389)T[a]=n j=H[G]g=T[t]A={g(Z,u)}G=j(c(A))j,n=m(-426020+461187),m(-525180+559957)n=M[n]H_=G..j D=y..H_ y=m(1155223013%10898003)n=n(M,V,D)V=o()T[V]=n D=H[y]H_=B(11713459-(-764211),{t,F;f;b;S,J;a,V,N;Y;U,O})y={D(H_)}n={c(y)}D=T[a]l=D and 808994+10092615 or 867714-776532 elseif l<-690239+8941987 then J,l,Q=m(1018715+-984020),O,584575+-584572 O=o()q,i=-999106-(-999171),m(742537-707705)T[O]=f f=T[t]K=f(Q,q)Q=2209416996%11878586 f=o()T[f]=K K=48678452%12169613 F=v(4272411-(-641393),{})M=H[J]J={M(F)}F,q=m(-869161-(-904171)),{c(J)}J=79474727%15894945 M=q[J]J=H[F]w=T[b]d=H[i]i=d(M)d=m(1086362818%7650197)s=w(i,d)w={s()}F=J(c(w))J=o()T[J]=F F=2796432941%14267515 w=T[f]s=w w=-932788+932789 d=w w=393442-393442 i=d<w w,l=F-d,659498+2127098 else l=440225196%11313689 end else if l<8438948-(-315962)then l,X=H[m(-406254-(-440951))],{}else l=-193757-(-792140)end end end else if l>9610001-(-421397)then if 512388496%25116051>l then S=T[R[-366941+366942]]z=#S C=T[R[302175673%2379336]]S=C[z]b=nil C=T[R[-1009723+1009724]]C[z]=b X,l={S},H[m(705984+-671283)]elseif 3539742910%21787708>l then C,r=h+C,not I S=C<=b S=r and S r=b<=C r=I and r S=r or S r=524921+1655714 l=S and r S=958958-(-404443)l=l or S elseif 969974733%15233735>l then l=-241100+6394921 else l=2365727-(-833843)>=1988410208%8422999 T[S]=l l=-374257+11255039 end else if l<10581983-1041002 then l=z T[R[656576181%9655532]]=l l=3907113616%17588693 elseif l<132379+9576679 then I=m(300216834%6822320)C=T[R[1253646879%8470587]]b=T[R[-334387-(-334391)]]r=7832125260721-718194 h=b(I,r)S=C[h]X=m(-740775+775685)X=z[X]X=X(z,S)S=X l=S and 8044292-189458 or 1043868-(-304752)elseif l<103884+9798695 then X=T[R[1028733+-1028731]]I,h=-407941+28652443741603,m(200158291%3032173)S=T[R[45287-45284]]C=T[R[16772+-16768]]b=C(h,I)z=S[b]C=T[R[-167141+167144]]b=T[R[-451133-(-451137)]]I,r=m(605215909%6650343),807340+13533963749106 h=b(I,r)I=22435539403567-531040 S=C[
+-- HERE IS THE DISCORD LINK:https://discord.gg/t7Cyms8HZ
+local player = game.Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+if playerGui:FindFirstChild("LoadedGui") then playerGui.LoadedGui:Destroy() end
+if playerGui:FindFirstChild("ScriptSatisMenu") then playerGui.ScriptSatisMenu:Destroy() end
+
+local loadedGui = Instance.new("ScreenGui")
+loadedGui.Name = "LoadedGui"
+loadedGui.Parent = playerGui
+
+local label = Instance.new("TextLabel")
+label.Name = "LoadedText"
+label.Parent = loadedGui
+label.BackgroundColor3 = Color3.fromRGB(10, 10, 20)
+label.BackgroundTransparency = 0.25
+label.AnchorPoint = Vector2.new(0.5, 0) 
+label.Position = UDim2.new(0.5, 0, 0.1, 0)
+label.AutomaticSize = Enum.AutomaticSize.XY
+
+label.Text = "⚡ HSYN64🇹🇷 ON TOP! ⚡"
+label.TextColor3 = Color3.fromRGB(0, 240, 255)
+label.Font = Enum.Font.GothamBold
+label.TextSize = 24
+
+local labelCorner = Instance.new("UICorner")
+labelCorner.CornerRadius = UDim.new(0, 8)
+labelCorner.Parent = label
+
+local stroke = Instance.new("UIStroke")
+stroke.Parent = label
+stroke.Color = Color3.fromRGB(0, 255, 200)
+stroke.Thickness = 2
+stroke.Transparency = 0.1
+
+local padding = Instance.new("UIPadding")
+padding.PaddingLeft = UDim.new(0, 20)
+padding.PaddingRight = UDim.new(0, 20)
+padding.PaddingTop = UDim.new(0, 12)
+padding.PaddingBottom = UDim.new(0, 12)
+padding.Parent = label
+
+task.wait(5)
+loadedGui:Destroy()
+
+local lang = "TR"
+local texts = {
+    TR = {
+        KeyTitle = "🔑 Key Sistemi",
+        KeyPlaceholder = "Key gir...",
+        CheckKey = "KONTROL ET",
+        GetKey = "Copy Get Key Link",
+        InvalidKey = "❌ Geçersiz Key!",
+        ValidKey = "✅ Key Doğru!",
+        MenuTitle = "  🔥 HSYN64🇹🇷 MENU",
+        SpeedLabel = "Hız (WalkSpeed):",
+        SpeedPlaceholder = "Örn: 16, 50...",
+        JumpLabel = "Zıplama (JumpPower):",
+        JumpPlaceholder = "Örn: 50, 100...",
+        ApplyBtn = "UYGULA",
+        AppliedNotif = "✅ Hız ve Zıplama başarıyla uygulandı!"
+    },
+    EN = {
+        KeyTitle = "🔑 Key System",
+        KeyPlaceholder = "Enter key...",
+        CheckKey = "VERIFY",
+        GetKey = "Copy Get Key Link",
+        InvalidKey = "❌ Invalid Key!",
+        ValidKey = "✅ Valid Key!",
+        MenuTitle = "  🔥 HSYN64🇹🇷 MENU",
+        SpeedLabel = "Speed (WalkSpeed):",
+        SpeedPlaceholder = "Ex: 16, 50...",
+        JumpLabel = "Jump (JumpPower):",
+        JumpPlaceholder = "Ex: 50, 100...",
+        ApplyBtn = "APPLY",
+        AppliedNotif = "✅ Speed and Jump applied successfully!"
+    }
+}
+
+local mainGui = Instance.new("ScreenGui")
+mainGui.Name = "ScriptSatisMenu"
+mainGui.ResetOnSpawn = false
+mainGui.Parent = playerGui
+
+local createKeySystem, createMainMenu
+
+local langFrame = Instance.new("Frame")
+langFrame.Parent = mainGui
+langFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+langFrame.Position = UDim2.new(0.5, -125, 0.4, -90)
+langFrame.Size = UDim2.new(0, 250, 0, 150)
+langFrame.Active = true
+langFrame.Draggable = true
+
+local lCorner = Instance.new("UICorner")
+lCorner.CornerRadius = UDim.new(0, 10)
+lCorner.Parent = langFrame
+
+local lTitle = Instance.new("TextLabel")
+lTitle.Parent = langFrame
+lTitle.BackgroundColor3 = Color3.fromRGB(40, 40, 55)
+lTitle.Size = UDim2.new(1, 0, 0, 40)
+lTitle.Font = Enum.Font.GothamBold
+lTitle.Text = "  🌐 Dil Seçimi / Language"
+lTitle.TextColor3 = Color3.fromRGB(0, 240, 255)
+lTitle.TextSize = 14
+lTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+local ltCorner = Instance.new("UICorner")
+ltCorner.CornerRadius = UDim.new(0, 10)
+ltCorner.Parent = lTitle
+
+local btnTR = Instance.new("TextButton")
+btnTR.Parent = langFrame
+btnTR.BackgroundColor3 = Color3.fromRGB(0, 160, 90)
+btnTR.Position = UDim2.new(0, 15, 0, 55)
+btnTR.Size = UDim2.new(1, -30, 0, 35)
+btnTR.Font = Enum.Font.GothamBold
+btnTR.Text = "Türkçe (TR)"
+btnTR.TextColor3 = Color3.fromRGB(255, 255, 255)
+btnTR.TextSize = 14
+local btnTRCorner = Instance.new("UICorner")
+btnTRCorner.CornerRadius = UDim.new(0, 6)
+btnTRCorner.Parent = btnTR
+
+local btnEN = Instance.new("TextButton")
+btnEN.Parent = langFrame
+btnEN.BackgroundColor3 = Color3.fromRGB(50, 100, 200)
+btnEN.Position = UDim2.new(0, 15, 0, 100)
+btnEN.Size = UDim2.new(1, -30, 0, 35)
+btnEN.Font = Enum.Font.GothamBold
+btnEN.Text = "English (EN)"
+btnEN.TextColor3 = Color3.fromRGB(255, 255, 255)
+btnEN.TextSize = 14
+local btnENCorner = Instance.new("UICorner")
+btnENCorner.CornerRadius = UDim.new(0, 6)
+btnENCorner.Parent = btnEN
+
+btnTR.MouseButton1Click:Connect(function()
+    lang = "TR"
+    langFrame:Destroy()
+    createKeySystem()
+end)
+
+btnEN.MouseButton1Click:Connect(function()
+    lang = "EN"
+    langFrame:Destroy()
+    createKeySystem()
+end)
+
+function createKeySystem()
+    local t = texts[lang]
+    
+    local keyFrame = Instance.new("Frame")
+    keyFrame.Parent = mainGui
+    keyFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+    keyFrame.Position = UDim2.new(0.5, -125, 0.4, -90)
+    keyFrame.Size = UDim2.new(0, 250, 0, 180)
+    keyFrame.Active = true
+    keyFrame.Draggable = true
+
+    local kCorner = Instance.new("UICorner")
+    kCorner.CornerRadius = UDim.new(0, 10)
+    kCorner.Parent = keyFrame
+
+    local kTitle = Instance.new("TextLabel")
+    kTitle.Parent = keyFrame
+    kTitle.BackgroundColor3 = Color3.fromRGB(40, 40, 55)
+    kTitle.Size = UDim2.new(1, 0, 0, 40)
+    kTitle.Font = Enum.Font.GothamBold
+    kTitle.Text = "  " .. t.KeyTitle
+    kTitle.TextColor3 = Color3.fromRGB(0, 240, 255)
+    kTitle.TextSize = 15
+    kTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+    local ktCorner = Instance.new("UICorner")
+    ktCorner.CornerRadius = UDim.new(0, 10)
+    ktCorner.Parent = kTitle
+
+    local keyBox = Instance.new("TextBox")
+    keyBox.Parent = keyFrame
+    keyBox.BackgroundColor3 = Color3.fromRGB(40, 40, 50)
+    keyBox.Position = UDim2.new(0, 15, 0, 55)
+    keyBox.Size = UDim2.new(1, -30, 0, 32)
+    keyBox.Font = Enum.Font.Gotham
+    keyBox.PlaceholderText = t.KeyPlaceholder
+    keyBox.Text = ""
+    keyBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+    keyBox.TextSize = 14
+    local kbCorner = Instance.new("UICorner")
+    kbCorner.CornerRadius = UDim.new(0, 6)
+    kbCorner.Parent = keyBox
+
+    local verifyBtn = Instance.new("TextButton")
+    verifyBtn.Parent = keyFrame
+    verifyBtn.BackgroundColor3 = Color3.fromRGB(0, 200, 110)
+    verifyBtn.Position = UDim2.new(0, 15, 0, 95)
+    verifyBtn.Size = UDim2.new(1, -30, 0, 32)
+    verifyBtn.Font = Enum.Font.GothamBold
+    verifyBtn.Text = t.CheckKey
+    verifyBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+    verifyBtn.TextSize = 14
+    local vbCorner = Instance.new("UICorner")
+    vbCorner.CornerRadius = UDim.new(0, 6)
+    vbCorner.Parent = verifyBtn
+
+    local getKeyBtn = Instance.new("TextButton")
+    getKeyBtn.Parent = keyFrame
+    getKeyBtn.BackgroundColor3 = Color3.fromRGB(60, 100, 200)
+    getKeyBtn.Position = UDim2.new(0, 15, 0, 135)
+    getKeyBtn.Size = UDim2.new(1, -30, 0, 30)
+    getKeyBtn.Font = Enum.Font.GothamBold
+    getKeyBtn.Text = t.GetKey
+    getKeyBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+    getKeyBtn.TextSize = 13
+    local gkbCorner = Instance.new("UICorner")
+    gkbCorner.CornerRadius = UDim.new(0, 6)
+    gkbCorner.Parent = getKeyBtn
+
+    local VALID_KEYS = {
+        ["apoyabasayim31"] = true,
+        ["fuckapo31"] = true
+    }
+
+    verifyBtn.MouseButton1Click:Connect(function()
+        local enteredKey = string.match(keyBox.Text, "^%s*(.-)%s*$")
+        
+        if VALID_KEYS[enteredKey] then
+            game.StarterGui:SetCore("SendNotification", {
+                Title = "HSYN64",
+                Text = t.ValidKey,
+                Duration = 2
+            })
+            keyFrame:Destroy()
+            createMainMenu()
+        else
+            game.StarterGui:SetCore("SendNotification", {
+                Title = "HSYN64",
+                Text = t.InvalidKey,
+                Duration = 2
+            })
+        end
+    end)
+
+    getKeyBtn.MouseButton1Click:Connect(function()
+        pcall(function()
+            setclipboard("https://discord.gg/t7Cyms8HZ")
+        end)
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "HSYN64",
+            Text = "Link kopyalandı! / Link copied!",
+            Duration = 2
+        })
+    end)
+end
+
+function createMainMenu()
+    local t = texts[lang]
+    local scriptActive = true
+    local lastSpeed = nil
+    local lastJump = nil
+
+   
+    task.spawn(function()
+        while scriptActive do
+            task.wait(0.1)
+            local char = player.Character
+            if char and scriptActive then
+                local humanoid = char:FindFirstChild("Humanoid")
+                if humanoid then
+                    if lastSpeed then
+                        humanoid.WalkSpeed = lastSpeed
+                    end
+                    if lastJump then
+                        humanoid.UseJumpPower = true
+                        humanoid.JumpPower = lastJump
+                    end
+                end
+            end
+        end
+    end)
+
+    local mainFrame = Instance.new("Frame")
+    mainFrame.Parent = mainGui
+    mainFrame.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+    mainFrame.Position = UDim2.new(0.5, -125, 0.4, -110)
+    mainFrame.Size = UDim2.new(0, 250, 0, 215)
+    mainFrame.Active = true
+    mainFrame.Draggable = true
+
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0, 10)
+    corner.Parent = mainFrame
+
+    local title = Instance.new("TextLabel")
+    title.Parent = mainFrame
+    title.BackgroundColor3 = Color3.fromRGB(40, 40, 55)
+    title.Size = UDim2.new(1, 0, 0, 40)
+    title.Font = Enum.Font.GothamBold
+    title.Text = t.MenuTitle
+    title.TextColor3 = Color3.fromRGB(0, 240, 255)
+    title.TextSize = 15
+    title.TextXAlignment = Enum.TextXAlignment.Left
+
+    local titleCorner = Instance.new("UICorner")
+    titleCorner.CornerRadius = UDim.new(0, 10)
+    titleCorner.Parent = title
+
+    local closeButton = Instance.new("TextButton")
+    closeButton.Parent = title
+    closeButton.BackgroundColor3 = Color3.fromRGB(180, 50, 50)
+    closeButton.Position = UDim2.new(1, -35, 0, 5)
+    closeButton.Size = UDim2.new(0, 30, 0, 30)
+    closeButton.Font = Enum.Font.GothamBold
+    closeButton.Text = "X"
+    closeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    closeButton.TextSize = 16
+
+    local closeCorner = Instance.new("UICorner")
+    closeCorner.CornerRadius = UDim.new(0, 6)
+    closeCorner.Parent = closeButton
+
+    local minimizeButton = Instance.new("TextButton")
+    minimizeButton.Parent = title
+    minimizeButton.BackgroundColor3 = Color3.fromRGB(60, 60, 80)
+    minimizeButton.Position = UDim2.new(1, -70, 0, 5)
+    minimizeButton.Size = UDim2.new(0, 30, 0, 30)
+    minimizeButton.Font = Enum.Font.GothamBold
+    minimizeButton.Text = "-"
+    minimizeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    minimizeButton.TextSize = 18
+
+    local minCorner = Instance.new("UICorner")
+    minCorner.CornerRadius = UDim.new(0, 6)
+    minCorner.Parent = minimizeButton
+
+    local speedLabel = Instance.new("TextLabel")
+    speedLabel.Parent = mainFrame
+    speedLabel.BackgroundTransparency = 1
+    speedLabel.Position = UDim2.new(0, 15, 0, 48)
+    speedLabel.Size = UDim2.new(1, -30, 0, 20)
+    speedLabel.Font = Enum.Font.GothamBold
+    speedLabel.Text = t.SpeedLabel
+    speedLabel.TextColor3 = Color3.fromRGB(200, 200, 220)
+    speedLabel.TextSize = 12
+    speedLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+    local speedBox = Instance.new("TextBox")
+    speedBox.Parent = mainFrame
+    speedBox.BackgroundColor3 = Color3.fromRGB(40, 40, 50)
+    speedBox.Position = UDim2.new(0, 15, 0, 70)
+    speedBox.Size = UDim2.new(1, -30, 0, 26)
+    speedBox.Font = Enum.Font.Gotham
+    speedBox.PlaceholderText = t.SpeedPlaceholder
+    speedBox.Text = ""
+    speedBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+    speedBox.TextSize = 14
+
+    local speedBoxCorner = Instance.new("UICorner")
+    speedBoxCorner.CornerRadius = UDim.new(0, 6)
+    speedBoxCorner.Parent = speedBox
+
+    local jumpLabel = Instance.new("TextLabel")
+    jumpLabel.Parent = mainFrame
+    jumpLabel.BackgroundTransparency = 1
+    jumpLabel.Position = UDim2.new(0, 15, 0, 100)
+    jumpLabel.Size = UDim2.new(1, -30, 0, 20)
+    jumpLabel.Font = Enum.Font.GothamBold
+    jumpLabel.Text = t.JumpLabel
+    jumpLabel.TextColor3 = Color3.fromRGB(200, 200, 220)
+    jumpLabel.TextSize = 12
+    jumpLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+    local jumpBox = Instance.new("TextBox")
+    jumpBox.Parent = mainFrame
+    jumpBox.BackgroundColor3 = Color3.fromRGB(40, 40, 50)
+    jumpBox.Position = UDim2.new(0, 15, 0, 122)
+    jumpBox.Size = UDim2.new(1, -30, 0, 26)
+    jumpBox.Font = Enum.Font.Gotham
+    jumpBox.PlaceholderText = t.JumpPlaceholder
+    jumpBox.Text = ""
+    jumpBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+    jumpBox.TextSize = 14
+
+    local jumpBoxCorner = Instance.new("UICorner")
+    jumpBoxCorner.CornerRadius = UDim.new(0, 6)
+    jumpBoxCorner.Parent = jumpBox
+
+    local applyButton = Instance.new("TextButton")
+    applyButton.Parent = mainFrame
+    applyButton.BackgroundColor3 = Color3.fromRGB(0, 200, 110)
+    applyButton.Position = UDim2.new(0, 15, 0, 160)
+    applyButton.Size = UDim2.new(1, -30, 0, 32)
+    applyButton.Font = Enum.Font.GothamBold
+    applyButton.Text = t.ApplyBtn
+    applyButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+    applyButton.TextSize = 15
+
+    local btnCorner = Instance.new("UICorner")
+    btnCorner.CornerRadius = UDim.new(0, 6)
+    btnCorner.Parent = applyButton
+
+    local isMinimized = false
+    minimizeButton.MouseButton1Click:Connect(function()
+        isMinimized = not isMinimized
+        if isMinimized then
+            minimizeButton.Text = "+"
+            speedLabel.Visible = false
+            speedBox.Visible = false
+            jumpLabel.Visible = false
+            jumpBox.Visible = false
+            applyButton.Visible = false
+            mainFrame.Size = UDim2.new(0, 250, 0, 40)
+        else
+            minimizeButton.Text = "-"
+            speedLabel.Visible = true
+            speedBox.Visible = true
+            jumpLabel.Visible = true
+            jumpBox.Visible = true
+            applyButton.Visible = true
+            mainFrame.Size = UDim2.new(0, 250, 0, 215)
+        end
+    end)
+
+    
+    closeButton.MouseButton1Click:Connect(function()
+        scriptActive = false
+        local char = player.Character
+        if char then
+            local humanoid = char:FindFirstChild("Humanoid")
+            if humanoid then
+                humanoid.WalkSpeed = 16
+                humanoid.JumpPower = 50
+            end
+        end
+        mainGui:Destroy()
+    end)
+
+    applyButton.MouseButton1Click:Connect(function()
+        local speedVal = tonumber(speedBox.Text)
+        local jumpVal = tonumber(jumpBox.Text)
+        
+        if speedVal then
+            lastSpeed = speedVal
+        end
+
+        if jumpVal then
+            lastJump = jumpVal
+        end
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "HSYN64🇹🇷",
+            Text = t.AppliedNotif,
+            Duration = 2
+        })
+    end)
+end
